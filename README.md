@@ -1,7 +1,7 @@
 # TiL
 Today I learned
 
-1. What was changed in PHP from v.5.4 to 7.4 (at least 3 main differences)?
+1. What was changed in PHP from v.5.6 to 7.3 (at least 3 main differences)?
 
 2. Wha is a difference between composer install and composer update?
 
